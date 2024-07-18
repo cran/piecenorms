@@ -1,0 +1,13 @@
+3247048fbbe931c64e705e01dcf5b586 *DESCRIPTION
+5081e82705905c5b1af216b958c280ad *LICENSE
+428719d15247064d700e084c1fa768f6 *NAMESPACE
+0a623487b724e083dccee52408d95c69 *NEWS.md
+24d326e2fd3385d7829bb50353db2e64 *R/piecenorm.R
+3a90f483f8f889985a78cda93c27d97d *R/piecenorms-package.R
+5ce607e573862fc2db214bfa9ebb8a21 *README.md
+97b302da680c8faa447138eb7b76957c *man/figures/README-example-1.png
+502a5f8dd6ba90060101596366cb7d58 *man/figures/README-pressure-1.png
+2cb5a261b30ac97d9b0b1ef4cf05267a *man/piecenorm.Rd
+d0e0db63fc2def7401a1001fe41b80fc *man/piecenorms-package.Rd
+1155ea74bbd3ad1aa4353b4f069f4b83 *tests/testthat.R
+8a2f469dc863a93f353685e888cbbb20 *tests/testthat/tests.R
